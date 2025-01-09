@@ -1,0 +1,7 @@
+query {
+    swimSetByName(name: "10x50s breast kick alternate legs") {
+        name
+        repCount
+        repLength
+    }
+}

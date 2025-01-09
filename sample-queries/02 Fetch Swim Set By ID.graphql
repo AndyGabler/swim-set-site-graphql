@@ -1,0 +1,7 @@
+query {
+    swimSetById(id: "6678a21439757bef254037ff") {
+        name
+        repCount
+        repLength
+    }
+}

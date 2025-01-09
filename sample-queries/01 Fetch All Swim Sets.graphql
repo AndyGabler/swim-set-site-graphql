@@ -1,0 +1,9 @@
+query {
+    swimSets{
+        id
+        name
+        repCount
+        repLength
+        labels
+    }
+}

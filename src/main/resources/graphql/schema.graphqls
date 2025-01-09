@@ -1,13 +1,7 @@
 type Query {
-    scheduledSets: [ScheduledSet]
     swimSets: [SwimSet]
-}
-
-type ScheduledSet {
-    id: ID!
-    dateScheduled: String!,
-    order: Int!
-    scheduledSet: SwimSet!
+    swimSetById(id: String!): SwimSet
+    swimSetByName(name: String!): SwimSet
 }
 
 type SwimSet {

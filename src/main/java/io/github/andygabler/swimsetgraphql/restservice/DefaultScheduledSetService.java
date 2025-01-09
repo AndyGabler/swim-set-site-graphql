@@ -2,6 +2,7 @@ package io.github.andygabler.swimsetgraphql.restservice;
 
 import io.github.andygabler.swimsetgraphql.model.ScheduledSet;
 import io.github.andygabler.swimsetgraphql.model.SwimSet;
+import io.github.andygabler.swimsetgraphql.repository.ScheduledSetRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

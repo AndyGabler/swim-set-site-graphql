@@ -1,4 +1,4 @@
-package io.github.andygabler.swimsetgraphql.restservice;
+package io.github.andygabler.swimsetgraphql.repository;
 
 import io.github.andygabler.swimsetgraphql.model.ScheduledSet;
 import io.github.andygabler.swimsetgraphql.model.SwimSet;

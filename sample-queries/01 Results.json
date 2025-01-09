@@ -1,0 +1,269 @@
+{
+  "data": {
+    "swimSets": [
+      {
+        "id": "6678a21439757bef254037ff",
+        "name": "6x150s free",
+        "repCount": 6,
+        "repLength": 150,
+        "labels": [
+          "Full Body",
+          "Endurance"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403800",
+        "name": "10x25s breast kick",
+        "repCount": 10,
+        "repLength": 25,
+        "labels": [
+          "Legs"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403801",
+        "name": "10x25s free kick",
+        "repCount": 10,
+        "repLength": 25,
+        "labels": [
+          "Legs"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403802",
+        "name": "10x25s fly kick",
+        "repCount": 10,
+        "repLength": 25,
+        "labels": [
+          "Legs",
+          "Breathing"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403803",
+        "name": "10x50s breast kick",
+        "repCount": 10,
+        "repLength": 50,
+        "labels": [
+          "Legs"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403804",
+        "name": "10x50s free kick",
+        "repCount": 10,
+        "repLength": 50,
+        "labels": [
+          "Legs"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403805",
+        "name": "10x50s fly kick",
+        "repCount": 10,
+        "repLength": 50,
+        "labels": [
+          "Legs",
+          "Breathing"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403806",
+        "name": "6x150s pull",
+        "repCount": 6,
+        "repLength": 150,
+        "labels": [
+          "Arms",
+          "Endurance"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403807",
+        "name": "5x200s pull",
+        "repCount": 5,
+        "repLength": 200,
+        "labels": [
+          "Arms",
+          "Endurance"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403808",
+        "name": "4x200s free",
+        "repCount": 4,
+        "repLength": 200,
+        "labels": [
+          "Full Body",
+          "Endurance"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403809",
+        "name": "10x100s free",
+        "repCount": 10,
+        "repLength": 100,
+        "labels": [
+          "Full Body"
+        ]
+      },
+      {
+        "id": "6678a21439757bef2540380a",
+        "name": "5x100s free",
+        "repCount": 5,
+        "repLength": 100,
+        "labels": [
+          "Full Body",
+          "Warmup"
+        ]
+      },
+      {
+        "id": "6678a21439757bef2540380b",
+        "name": "10x50s free",
+        "repCount": 10,
+        "repLength": 50,
+        "labels": [
+          "Full Body",
+          "Warmup"
+        ]
+      },
+      {
+        "id": "6678a21439757bef2540380c",
+        "name": "5x100s IM",
+        "repCount": 5,
+        "repLength": 100,
+        "labels": [
+          "Full Body",
+          "Endurance",
+          "Warmup"
+        ]
+      },
+      {
+        "id": "6678a21439757bef2540380d",
+        "name": "8x100s IM",
+        "repCount": 8,
+        "repLength": 100,
+        "labels": [
+          "Full Body",
+          "Endurance"
+        ]
+      },
+      {
+        "id": "6678a21439757bef2540380e",
+        "name": "10x50s breast stroke",
+        "repCount": 10,
+        "repLength": 50,
+        "labels": [
+          "Arms",
+          "Legs"
+        ]
+      },
+      {
+        "id": "6678a21439757bef2540380f",
+        "name": "10x50s fly",
+        "repCount": 10,
+        "repLength": 50,
+        "labels": [
+          "Arms",
+          "Legs"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403810",
+        "name": "10x75s fly",
+        "repCount": 10,
+        "repLength": 75,
+        "labels": [
+          "Arms",
+          "Full Body"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403811",
+        "name": "10x100s fly",
+        "repCount": 10,
+        "repLength": 100,
+        "labels": [
+          "Arms",
+          "Full Body",
+          "Endurance"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403812",
+        "name": "10x75s free, no turn breathing",
+        "repCount": 10,
+        "repLength": 75,
+        "labels": [
+          "Full Body",
+          "Breathing"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403813",
+        "name": "4x25s free, one-breath",
+        "repCount": 4,
+        "repLength": 25,
+        "labels": [
+          "Breathing",
+          "Cooldown"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403814",
+        "name": "10x50s free, breath crescendo",
+        "repCount": 10,
+        "repLength": 50,
+        "labels": [
+          "Breathing"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403815",
+        "name": "10x50s free sprint",
+        "repCount": 10,
+        "repLength": 50,
+        "labels": [
+          "Sprint"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403816",
+        "name": "10x50s free sprint",
+        "repCount": 10,
+        "repLength": 50,
+        "labels": [
+          "Breathing"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403817",
+        "name": "10x25s no breath",
+        "repCount": 10,
+        "repLength": 25,
+        "labels": [
+          "Breathing"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403818",
+        "name": "10x50s breast kick alternate legs",
+        "repCount": 10,
+        "repLength": 50,
+        "labels": [
+          "Legs"
+        ]
+      },
+      {
+        "id": "6678a21439757bef25403819",
+        "name": "10x100s IM",
+        "repCount": 10,
+        "repLength": 100,
+        "labels": [
+          "Full Body",
+          "Endurance",
+          "Warmup"
+        ]
+      }
+    ]
+  }
+}
