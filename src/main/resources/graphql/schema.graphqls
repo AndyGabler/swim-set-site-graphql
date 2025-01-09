@@ -12,3 +12,17 @@ type SwimSet {
     description: String
     labels: [String]
 }
+
+type Mutation {
+    addSwimSet(newSwimSet: SwimSetInput): SwimSet
+}
+
+input SwimSetInput {
+    # id: ID!
+    repLength: Int!
+    repCount: Int!
+    name: String!
+    description: String
+    # TODO debug labels
+    # labels: [String]!
+}
