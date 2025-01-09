@@ -1,0 +1,20 @@
+type Query {
+    scheduledSets: [ScheduledSet]
+    swimSets: [SwimSet]
+}
+
+type ScheduledSet {
+    id: ID!
+    dateScheduled: String!,
+    order: Int!
+    scheduledSet: SwimSet!
+}
+
+type SwimSet {
+    id: ID!
+    repLength: Int!
+    repCount: Int!
+    name: String!
+    description: String
+    labels: [String]
+}
